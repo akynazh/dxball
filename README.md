@@ -17,4 +17,5 @@
 - 配置EXE4J_JAVA_HOME变量指向Jdk根目录，然后安装exe4j；
 - 打开DxBall.exe4j，开始自己的配置，其中最关键的是如下配置：
     ![jre](jre-config.jpg)
+    
     第一个是额外指定的，优先搜索当前目录下的jre，其他三个为默认选项。
